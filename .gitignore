@@ -54,7 +54,7 @@
 <tr>
 	<td>type</td>
 	<td>id=checkout_email</td>
-	<td>atari003@fiu.edu</td>
+	<td>ABC123@AOL.COM</td>
 </tr>
 <tr>
 	<td>type</td>
@@ -69,7 +69,7 @@
 <tr>
 	<td>type</td>
 	<td>id=checkout_shipping_address_address1</td>
-	<td>14308 sw 51 st</td>
+	<td>1234 SW 45 ST</td>
 </tr>
 <tr>
 	<td>type</td>
@@ -89,7 +89,7 @@
 <tr>
 	<td>type</td>
 	<td>id=checkout_shipping_address_phone</td>
-	<td>7867124149</td>
+	<td>7867124444</td>
 </tr>
 <tr>
 	<td>clickAndWait</td>
@@ -151,7 +151,6 @@
 	<td>name=button</td>
 	<td></td>
 </tr>
-
 </tbody></table>
 </body>
 </html>
